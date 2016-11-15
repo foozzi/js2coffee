@@ -9,4 +9,5 @@ Work on mac os, linux, win (coming soon).
 
     electron-packager ./ --icon=./coffee.icns --overwrite
 
+    or look builds https://github.com/foozzi/js2coffee/tree/master/builds
 ![enter image description here](http://i.imgur.com/lq6boSi.png)
